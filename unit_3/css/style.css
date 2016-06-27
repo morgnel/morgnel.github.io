@@ -12,6 +12,10 @@ h1{
 	font-style:italic;
 	text-align:center;
 }
+img{
+	width:100%
+	height:auto;
+}
 p{
 	color:rgb(255,255,255);
 	font-family: Avenir,san-serif;
@@ -19,4 +23,6 @@ p{
 ul,li{
 	color:rgb(255,255,255);
 	font-family: Avenir,san-serif;
+	text-align: center;
+	list-style-type: none;
 }
