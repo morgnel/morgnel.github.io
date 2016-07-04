@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+body{
+	background-color:rgb(71,209,255);
+}
+h1{
+	color:rgb(255,255,255);
+	font-family:Avenir,san-serif;
+	text-transform:uppercase;
+	text-align:center;
+}
+#slogan{
+	font-family: 'Slabo 27px', serif;
+	font-style:italic;
+	text-align:center;
+}
+img{
+	text-align:center;
+}
+p{
+	color:rgb(255,255,255);
+	font-family: 'Slabo 27px', serif;
+}
+ul,li{
+	color:rgb(255,255,255);
+	font-family: 'Slabo 27px', serif;
+}
