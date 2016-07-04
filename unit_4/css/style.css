@@ -15,6 +15,8 @@ h1{
 }
 img{
 	text-align:center;
+	width: 50%;
+	height: 50%;
 }
 p{
 	color:rgb(255,255,255);
