@@ -1,7 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 body{
-	background-color:rgb(71,209,255);
-	background-image: url(MNelson.jpg);
+	background-image: url(images/MNelson.jpg);
 }
 h1{
 	color:rgb(255,255,255);
