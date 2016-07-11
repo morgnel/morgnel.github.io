@@ -1,6 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
-body{
-}
+
 header{
 	background-color:#FFED74;
 	border: 1px black solid;
@@ -14,28 +13,3 @@ footer{
 }
 div{
 	background-color:#FFE2B8;
-}
-h1{
-	color:rgb(255,255,255);
-	font-family:Avenir,san-serif;
-	text-transform:uppercase;
-	text-align:center;
-}
-#slogan{
-	font-family: 'Slabo 27px', serif;
-	font-style:italic;
-	text-align:center;
-}
-img{
-	text-align:center;
-	width: 25%;
-	height: 25%;
-}
-p{
-	color:rgb(255,255,255);
-	font-family: 'Slabo 27px', serif;
-}
-ul,li{
-	color:rgb(255,255,255);
-	font-family: 'Slabo 27px', serif;
-}
