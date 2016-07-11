@@ -1,5 +1,7 @@
 .wrapper{
-	backgroun-colr:purple;
+	background-color:purple;
+	height:800px;
+	width:800px;
 }
 header{
 	background-color:#FFED74;
