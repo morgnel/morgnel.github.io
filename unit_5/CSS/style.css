@@ -1,4 +1,6 @@
-.wrapper{
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+
+.container{
 	background-color:purple;
 	height:800px;
 	width:800px;
@@ -10,10 +12,33 @@ header{
 }
 nav{
 	background-color:#E8C66A;
+	border: 1px black solid;
+	padding: 20px;
 }
 footer{
 	background-color:#FF957E;
+	border: 1px black solid;
+	padding: 20px;
 }
 div{
 	background-color:#FFE2B8;
+	border: 1px black solid;'
+	padding:20px;
 }
+h1{
+	color:rgb(255,255,255);
+	font-family: Avenir, san-serif;
+	text-transform:uppercase;
+	text-align:center;
+}
+#slogan{
+	font-family: 'Slabo 27px', serif;
+	font-family: italic;
+	text-align: center;
+}
+img{
+	text-align:center;
+	width:25%;
+	height:25%;
+}
+
