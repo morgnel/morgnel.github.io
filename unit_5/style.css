@@ -1,0 +1,19 @@
+.container{
+	background-color:purple;
+	height:800px;
+	width:800px;
+}
+header{
+	background-color:#FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+nav{
+	background-color:#E8C66A;
+}
+footer{
+	background-color:#FF957E;
+}
+div{
+	background-color:#FFE2B8;
+}
