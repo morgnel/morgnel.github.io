@@ -1,9 +1,22 @@
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 body{
-	background-image: url(images/MNelson.jpg);
+}
+header{
+	background-color:#FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+nav{
+	background-color:#E8C66A;
+}
+footer{
+	background-color:#FF957E;
+}
+div{
+	background-color:#FFE2B8;
 }
 h1{
-	color:rgb(0,0,0,;
+	color:rgb(255,255,255);
 	font-family:Avenir,san-serif;
 	text-transform:uppercase;
 	text-align:center;
@@ -13,11 +26,16 @@ h1{
 	font-style:italic;
 	text-align:center;
 }
+img{
+	text-align:center;
+	width: 25%;
+	height: 25%;
+}
 p{
-	color:rgb(0,0,0,);
+	color:rgb(255,255,255);
 	font-family: 'Slabo 27px', serif;
 }
 ul,li{
-	color:rgb(0,0,0,);
+	color:rgb(255,255,255);
 	font-family: 'Slabo 27px', serif;
 }
