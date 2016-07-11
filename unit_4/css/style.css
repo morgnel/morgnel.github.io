@@ -3,7 +3,7 @@ body{
 	background-image: url(images/MNelson.jpg);
 }
 h1{
-	color:rgba(0,0,0,.5;
+	color:rgb(0,0,0,;
 	font-family:Avenir,san-serif;
 	text-transform:uppercase;
 	text-align:center;
@@ -14,10 +14,10 @@ h1{
 	text-align:center;
 }
 p{
-	color:rgba(0,0,0,.5);
+	color:rgb(0,0,0,);
 	font-family: 'Slabo 27px', serif;
 }
 ul,li{
-	color:rgba(0,0,0,.5);
+	color:rgb(0,0,0,);
 	font-family: 'Slabo 27px', serif;
 }
