@@ -35,13 +35,30 @@ h1 {
 	margin: 0;
 }
 
-.portfolio {
+#design {
 	float: left;
 	width: 33%;
 	height: 6em;
 	outline: 3px solid #222;
-	
+
 }
+
+#senior_thesis {
+	float: left;
+	width: 33%;
+	height: 6em;
+	outline: 3px solid #222;
+
+}
+
+#branding{
+	float: left;
+	width: 33%;
+	height: 6em;
+	outline: 3px solid #222;
+
+}
+
 #two_column {
 	background-color: #FFB7CF;
 	border: 1px black solid;
