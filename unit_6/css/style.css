@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 
 header {
-	border: 1px black solid;
+	border: 1px;
 	padding: 20px;
 }
 
@@ -33,12 +33,6 @@ h1 {
 	font-family: 'Slabo 27px', serif;
 	font-family: italic;
 	text-align: center;
-}
-
-img {
-	text-align:center;
-	width:25%;
-	
 }
 
 #hero {
