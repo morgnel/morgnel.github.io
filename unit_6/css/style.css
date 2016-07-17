@@ -21,7 +21,6 @@ h1 {
 	color:rgb(0,0,0);
 	font-family: 'Slabo 27px', serif;
 	text-transform:uppercase;
-	text-align:center;
 }
 
 #slogan {
@@ -36,6 +35,13 @@ h1 {
 	margin: 0;
 }
 
+.portfolio {
+	float: left;
+	width: 33%;
+	height: 6em;
+	outline: 3px solid #222;
+	
+}
 #two_column {
 	background-color: #FFB7CF;
 	border: 1px black solid;
