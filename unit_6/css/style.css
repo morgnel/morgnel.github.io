@@ -41,6 +41,12 @@ img {
 	
 }
 
+#hero {
+	display: block;
+	width: 100%;
+	margin: 0;
+}
+
 #two_column {
 	background-color: #FFB7CF;
 	border: 1px black solid;
