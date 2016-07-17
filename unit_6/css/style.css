@@ -36,25 +36,28 @@ h1 {
 
 #design {
 	float: left;
-	width: 33%;
+	width: 6em;
 	height: 6em;
-	outline: 3px solid #222;
+	text-align: center;
+	outline: 1px solid #222;
 
 }
 
 #senior_thesis {
 	float: left;
-	width: 33%;
+	width: 6em;
 	height: 6em;
-	outline: 3px solid #222;
+	text-align: center;
+	outline: 1px solid #222;
 
 }
 
 #branding{
 	float: left;
-	width: 33%;
+	width: 6em;
 	height: 6em;
-	outline: 3px solid #222;
+	text-align: center;
+	outline: 1px solid #222;
 
 }
 
