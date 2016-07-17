@@ -1,0 +1,59 @@
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+
+header {
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav {
+	text-align: center;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+footer {
+	border: 1px black solid;
+	padding: 20px;
+}
+
+div {
+	border: 1px black solid;'
+	padding:20px;
+}
+
+h1 {
+	color:rgb(255,255,255);
+	font-family: 'Slabo 27px', serif;
+	text-transform:uppercase;
+	text-align:center;
+}
+
+#slogan {
+	font-family: 'Slabo 27px', serif;
+	font-family: italic;
+	text-align: center;
+}
+
+img {
+	text-align:center;
+	width:25%;
+	
+}
+
+#two_column {
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+	background-color: #E582A2;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#right {
+	background-color: #E55B88;
+	border: 1px black solid;
+	padding: 20px;
+}
