@@ -35,16 +35,16 @@ nav {
 
 #design {
 	float: left;
-	width: 6em;
-	height: 6em;
+	width: 12em;
+	height: 12em;
 	text-align: center;
 	outline: 1px solid #222;
 }
 
 #senior_thesis {
 	float: left;
-	width: 6em;
-	height: 6em;
+	width: 12em;
+	height: 12em;
 	text-align: center;
 	outline: 1px solid #222;
 	clear: both;
@@ -52,8 +52,8 @@ nav {
 
 #branding{
 	float: right;
-	width: 6em;
-	height: 6em;
+	width: 12em;
+	height: 12em;
 	text-align: center;
 	outline: 1px solid #222;
 	clear: both;
