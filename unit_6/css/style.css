@@ -33,6 +33,10 @@ nav {
 	margin: 0;
 }
 
+.portfolio {
+	float: left;
+}
+
 #design {
 	float: left;
 	width: 12em;
