@@ -46,6 +46,7 @@ nav {
 	height: 6em;
 	text-align: center;
 	outline: 1px solid #222;
+	clear: both;
 }
 
 #branding{
