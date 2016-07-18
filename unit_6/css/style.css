@@ -42,7 +42,7 @@ nav {
 }
 
 #senior_thesis {
-	float: none;
+	float: left;
 	width: 12em;
 	height: 12em;
 	text-align: center;
@@ -51,7 +51,7 @@ nav {
 }
 
 #branding{
-	float: right;
+	float: left;
 	width: 12em;
 	height: 12em;
 	text-align: center;
