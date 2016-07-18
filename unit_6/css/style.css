@@ -38,6 +38,7 @@ nav {
 	width: 6em;
 	height: 6em;
 	text-align: center;
+	outline: 1px solid #222;
 }
 
 #senior_thesis {
