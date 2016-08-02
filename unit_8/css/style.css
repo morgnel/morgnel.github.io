@@ -1,0 +1,96 @@
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+
+header {
+	border: 1px;
+	padding: 20px;
+}
+
+nav {
+	text-align: center;
+	border: 1px;
+	padding: 20px;
+	text-decoration: none;
+}
+
+h1 {
+	color:rgb(0,0,0);
+	font-family: 'Slabo 27em', serif;
+	text-transform:uppercase;
+}
+
+nav {
+	float: right;
+}
+
+#slogan {
+	font-family: 'Avenir', sans-serif;
+	font-family: italic;
+}
+
+.portfolio {
+	float: left;
+}
+
+#design {
+	float: left;
+	width: 12em;
+	height: 12em;
+	text-align: center;
+	outline: 1px solid #222;
+}
+
+#senior_thesis {
+	float: left;
+	width: 12em;
+	height: 12em;
+	text-align: center;
+	outline: 1px solid #222;
+	clear: both;
+}
+
+#branding{
+	float: left;
+	width: 12em;
+	height: 12em;
+	text-align: center;
+	outline: 1px solid #222;
+	clear: both;
+
+}
+
+#two_column {
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+	background-color: violet;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 30%;
+}
+
+#right {
+	background-color: pink;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 62%;
+}
+
+.clearfix:after {
+	visibility:hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+footer {
+	border: 1px black solid;
+	padding: 20px;
+	clear: both;
+}
