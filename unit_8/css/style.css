@@ -1,5 +1,5 @@
 header {
-	font-family: 'Avenir', sans-serif;
+	font-family: 'Helvetica', sans-serif;
 	font-size: 2em;
 	border: 1px;
 	padding: 20px;
@@ -14,7 +14,7 @@ nav {
 
 h1 {
 	color:rgb(0,0,0);
-	font-family: 'Avenir', sans-serif;
+	font-family: 'Helvetica', sans-serif;
 	text-transform:uppercase;
 }
 
@@ -23,7 +23,7 @@ nav {
 }
 
 #slogan {
-	font-family: 'Avenir', sans-serif;
+	font-family: 'Helvetica', sans-serif;
 	font-family: italic;
 }
 
