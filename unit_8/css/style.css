@@ -6,7 +6,9 @@ header {
 }
 
 nav {
-	text-align: center;
+	font-family: 'Helvetica', sans-serif;
+	font-size: 1em;
+	float: right;
 	border: 1px;
 	padding: 20px;
 	text-decoration: none;
@@ -15,11 +17,8 @@ nav {
 h1 {
 	color:rgb(0,0,0);
 	font-family: 'Helvetica', sans-serif;
+	font-size: .5em;
 	text-transform:uppercase;
-}
-
-nav {
-	float: right;
 }
 
 #slogan {
