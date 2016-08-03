@@ -1,6 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 
 header {
+	font-family: 'Avenir', sans-serif;
+	font-size: 2em;
 	border: 1px;
 	padding: 20px;
 }
